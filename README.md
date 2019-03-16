@@ -2,7 +2,7 @@
 
 Paper: https://arxiv.org/abs/1812.11305v1
 
-### In this program,pytorch 0.4.0
+### In this program,
 
 
 
